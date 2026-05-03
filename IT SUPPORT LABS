@@ -1,0 +1,40 @@
+Lab: Secure a Small Wireless Network
+In this scenario, I installed a new router in my home office and connected my desktop computer (Home-PC) to the router with an Ethernet cable. The next step was to set up the wireless network so I could connect my laptop (Home-Laptop) over Wi-Fi. To configure the wireless access point, I used Chrome on Home-PC.
+
+Address: 192.168.0.254
+Username: admin
+Password: password
+
+If this were a real network, I would change those right away, but that's not part of this lab.
+
+Required Actions
+ Give the wireless network an SSID
+ Give the wireless network WPA2 Personal encryption
+ Give the wireless network a password
+ Connect the laptop to the wireless network
+
+Here’s a breakdown of the steps:
+
+Access the router settings:
+a. Click the screen of Home-PC to access the operating system.
+b. From the taskbar, I opened Chrome.
+c. In the URL field, I typed 192.168.0.254 and pressed Enter.
+d. In the Username field, I entered admin.
+e. In the Password field, I entered password.
+f. I selected OK.
+
+Give the network an SSID (network name):
+The SSID can be changed on the Basic Settings subtab of the Wireless tab.
+I added the SSID Pretty Fly Wi-Fi to the 2.4GHz interface.
+Before leaving this page, I scrolled to the bottom and clicked Apply Settings to save my work.
+
+Add encryption and a password to the wireless network:
+The encryption and password were configured on the Wireless Security subtab of the Wireless tab.
+
+I used WPA2-PSK encryption.
+I set H@rd2Guess as the shared key (password).
+Before leaving this page, I scrolled to the bottom and clicked Apply to save my work.
+
+Return to the Computer Desk and connect the laptop to the wireless network I just configured.
+
+This lab helped me practice basic wireless router configuration and security practices essential for home and small office networks.
