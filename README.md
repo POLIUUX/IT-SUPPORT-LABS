@@ -17,5 +17,5 @@ Labs
 
 Here’s a brief list of the labs available in this repository:
 
-Lab: Secure a Small Wireless Network
-Lab: Customize Wireless and Security Settings for a SOHO Network
+-Lab: Secure a Small Wireless Network
+-Lab: Customize Wireless and Security Settings for a SOHO Network
