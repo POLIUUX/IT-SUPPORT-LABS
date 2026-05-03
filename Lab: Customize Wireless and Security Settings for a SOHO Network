@@ -1,0 +1,34 @@
+Lab: Customize Wireless and Security Settings for a SOHO Network
+In this lab, I customized the wireless and security settings of a TRENDnet wireless access point for a small office/home office (SOHO) network. The goal was to configure the wireless access point, change the administrator credentials, and set up the router for optimal wireless performance.
+
+Required Actions
+ Change the wireless access point's default administrator authentication credentials
+ Change wireless mode
+ Automatically choose a wireless channe
+
+Here’s a breakdown of the steps:
+Access the TRENDnet Wireless Access Point Configuration Tool:
+a. Open Google Chrome on the Home-PC.
+b. In the URL field, I typed 192.168.0.254 and pressed Enter.
+c. In the Username field, I entered admin.
+d. In the Password field, I entered password.
+e. I checked Remember my credentials to save the login details for future access.
+f. I selected OK to log in.
+
+Change the Settings on the Wireless Access Point:
+a. From the left menu, I selected Wireless.
+b. Then I clicked on Basic to adjust basic settings.
+c. I changed the Wireless Mode to 802.11 g/n mixed mode to support both older and newer devices.
+d. I changed the Frequency (Channel) to AutoSelect for optimal performance.
+e. I clicked Apply to save these changes.
+f. Finally, I clicked OK to confirm the settings.
+
+Change the Wireless Access Point's Administrator Authentication Credentials:
+a. From the left menu, I selected Administrator.
+b. I then selected Management under the administrator settings.
+c. In the Account field, I entered TheBoss as the new username.
+d. In the Password field, I entered Super$ecur3 for a stronger password.
+e. I clicked Apply under the Administrator Settings pane to save the new credentials.
+f. To finish, I closed Google Chrome.
+
+This lab allows me to practice configuring and securing a wireless network while customizing both wireless settings and admin credentials. It’s a vital task for setting up a secure and efficient network in a small office/home office environment.
